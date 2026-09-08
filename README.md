@@ -1,4 +1,4 @@
-# Domain Adaptive Person Search
+# Scale-Aware Domain Harmonization for Domain Adaptation Person Search
 
 ## Introduction
 
