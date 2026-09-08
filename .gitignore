@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+build/
+dist/
+*.egg-info/
+
+# IDE
+.idea/
+.vscode/
+
+# Checkpoints / weights (release via external links)
+*.pth
+FC/
+FP权重/
+
+# Experiment outputs & logs
+*.log
+exp_*/
+output*/
+DSCA_Gallery/
+results/
+eval_results/
+data/eval_cache/
+vis/
